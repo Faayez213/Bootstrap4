@@ -1,0 +1,22 @@
+.headerContent, .footerContent{
+  background-color:#D1C4E9;
+
+}
+.aboutUs{
+  border-bottom: 1px solid gray;
+  margin-bottom:50px;
+}
+
+.firstRow{
+  padding-bottom: 50px;
+  border-bottom: 1px solid gray;
+}
+.secondRow{
+  padding:50px 0px 50px 0px;
+}
+.footerContent{
+  padding:30px;
+}
+.navbar-dark{
+  background-color: #512DA8;
+}

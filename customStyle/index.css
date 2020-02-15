@@ -1,0 +1,24 @@
+
+body{
+  padding-top:20px;
+  z-index: 0;
+}
+.footerContent, .headerContent{
+    background-color: #D1C4E9;
+}
+.footerContent{
+  padding-top:20px;
+}
+
+
+.aboutUs{
+  border-bottom: 1px solid gray;
+  margin-bottom: 50px;
+}
+.rowContent{
+  border-bottom: 1px solid gray;
+  padding-bottom: 50px;
+}
+.navbar-dark{
+  background-color: #512DA8;
+}
