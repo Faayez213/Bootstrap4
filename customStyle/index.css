@@ -16,7 +16,8 @@ body{
   margin-bottom: 50px;
 }
 .rowContent{
-  padding-bottom: 50px;
+  padding: 50px 70px 50px 70px;
+  border-bottom: 1px solid gray;
 }
 .navbar-dark{
   background-color: #512DA8;
